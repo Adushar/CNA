@@ -1,4 +1,4 @@
-# **Hire Ruby on Rails Developers, CNA
+# Hire Ruby on Rails Developers, CNA
 
 # Technology stack:
   - ruby(2.5.5)
